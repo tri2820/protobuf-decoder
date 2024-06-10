@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "vite",
+    "dev": "vite dev",
     "build": "vite build --outDir build",
     "test": "vitest --run --globals --reporter verbose",
     "test:watch": "vitest --globals --reporter verbose --ui"

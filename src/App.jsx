@@ -39,7 +39,7 @@ function App() {
   ) : null;
 
   return (
-    <Container>
+    <Container fluid className="container">
       <Header as="h1">Protobuf Decoder</Header>
       <p>
         Tool to decode Protobuf without having the original .proto files. All

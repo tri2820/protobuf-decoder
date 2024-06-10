@@ -5,3 +5,7 @@ body {
 table td {
   word-break: break-all;
 }
+
+.container {
+  padding: 16px;
+}
